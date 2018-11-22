@@ -1,1 +1,1 @@
-print("Hallo Welt")
+def say_hi(name):
